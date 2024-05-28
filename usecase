@@ -1,0 +1,21 @@
+In this tutorial, we will explore how to use MindsDB, an open-source AI layer for databases, to predict house prices based on a dataset of real estate properties. MindsDB simplifies the process of integrating machine learning into applications by allowing you to create, train, and query machine learning models using SQL-like queries.
+
+Prerequisites
+Basic understanding of SQL and machine learning concepts.
+Python installed on your system.
+MindsDB installed. If you haven't installed it yet, you can do so using pip:
+
+pip install mindsdb
+
+Step 1: Setting Up the Environment
+Step 2: Loading the Data
+Step 3: Creating and Training a Model in MindsDB
+Step 4: Making Predictions
+Step 5: Integrating with a Database
+:Connect MindsDB to MySQL:
+:create and train the model
+:make predictions
+
+In this tutorial, we demonstrated how to use MindsDB to predict house prices using a CSV dataset and directly from a MySQL database. MindsDB simplifies machine learning by allowing you to train models and make predictions using SQL-like commands, making it accessible for developers and data scientists familiar with SQL.
+
+With MindsDB, you can integrate machine learning models into your existing database infrastructure, allowing for seamless deployment and real-time predictions within your applications.
